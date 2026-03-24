@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammet Tarık (Tarık)
+# 👋 Hi, I'm Muhammet Tarık
 
 💻 Full Stack Developer
 
