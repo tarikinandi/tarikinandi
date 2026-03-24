@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Muhammet Tarık (Tarık)
 
 💻 Full Stack Developer
+
 🎓 Computer Engineer | Kocaeli University
 
 ---
