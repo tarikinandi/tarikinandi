@@ -10,7 +10,7 @@
 
 - Curious and deeply passionate about software engineering, constantly exploring new technologies to build innovative solutions
 - Strong foundation in Full Stack development (Java, .NET, React), backed by 2 years of enterprise experience managing complex configurations and service dependencies
-- Problem solver with an architectural mindset; dedicated to clean code (SOLID) and designing scalable, maintainable systems
+- Problem solver with an architectural mindset; dedicated to clean code and designing scalable, maintainable systems
 - Currently advancing my Full Stack expertise by architecting high-throughput distributed systems and rigorously evaluating technical trade-offs (Microservices, DDD, CQRS).
 
 ---
