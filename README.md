@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer
 
-🎓 Computer Engineer | Kocaeli University
+🎓 Computer Engineer
 
 ---
 
